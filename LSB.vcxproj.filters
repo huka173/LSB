@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="io.cpp">
+    <ClCompile Include="src\io.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lsb.cpp">
+    <ClCompile Include="src\lsb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="io.h">
+    <ClInclude Include="headers\io.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="lsb.h">
+    <ClInclude Include="headers\lsb.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

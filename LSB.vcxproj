@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lsb.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="io.cpp" />
+    <ClCompile Include="src\lsb.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\io.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="io.h" />
-    <ClInclude Include="lsb.h" />
+    <ClInclude Include="headers\io.h" />
+    <ClInclude Include="headers\lsb.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

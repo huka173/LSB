@@ -3,8 +3,8 @@
 #include <opencv2/imgproc.hpp>
 #include <Windows.h>
 #include <iostream>
-#include "io.h"
-#include "lsb.h"
+#include "../headers/io.h"
+#include "../headers/lsb.h"
 
 int main()
 {
